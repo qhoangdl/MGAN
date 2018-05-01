@@ -3,7 +3,7 @@ Mixture Generative Adversarial Nets (MGAN)
 
 This TensorFlow code implements an example of MGAN for the CIFAR-10 dataset, presented in the paper "***MGAN: Training Generative Adversarial Nets with Multiple Generators***" accepted at the 6th International Conference on Learning Representations (ICLR 2018).
 
-The code is tested on Linux-based operating system with Python 3.6, TensorFlow 1.2.1.
+The code is tested on Linux-based operating system with Python 3.6, TensorFlow 1.2.1. The data for this example can be downloaded <a href="https://drive.google.com/open?id=1IYVgs9K_kFzeN7CHGleE_uvSmX5i7mWu">here</a>.
 
 Run the model using this command:
 -------------------------------------
